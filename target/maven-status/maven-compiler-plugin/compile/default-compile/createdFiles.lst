@@ -1,0 +1,5 @@
+com\mycompany\mavenproject1\resources\JakartaEE10Resource.class
+converter\web\ConverterServlet.class
+converter\ejb\ConverterBean.class
+com\mycompany\mavenproject1\JakartaRestConfiguration.class
+converter\ejb\ConverterBeanLocal.class
